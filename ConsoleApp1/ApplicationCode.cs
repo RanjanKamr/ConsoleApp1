@@ -9,14 +9,14 @@ namespace ConsoleApp1
     public class ApplicationCode
     {
         //***************** Convert String to lower case
-
+        //Test Applicationn
         public void ConvertStringToLowercase()
         {
             string str = string.Empty;
             Console.WriteLine("Enter a number:");
             str = Console.ReadLine();
             Console.WriteLine(str.ToLower());
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
 
         //****************Reverse string******************
